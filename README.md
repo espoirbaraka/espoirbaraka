@@ -3,6 +3,6 @@
 
 About me: 
 - 🔭 I’m currently working on PHP, JAVA
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS, JANGO, LARAVEL
 
 

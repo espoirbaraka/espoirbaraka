@@ -1,9 +1,13 @@
 ### Baraka Bigega Espoir  :congo_kinshasa:
 
 
-About me: 
-- 🔭 I’m currently working on PHP, JAVA
-- 🌱 I’m currently learning React JS, JANGO, LARAVEL
+I’m currently working on : 
+    Frontend :
+- PHP
+- LARAVEL
+- DJANGO
+- REACT JS
+- JSP
 
 ### Social media
 

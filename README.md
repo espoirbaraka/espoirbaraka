@@ -5,17 +5,15 @@ I’m currently working on :
 
     Frontend :
 - REACT JS
-- BOOTSTRAP
+- BOOTSTRAP 
 
-
-    Backend :
-    
+        Backend :
 - DJANGO
 - PHP
 - LARAVEL
 - JSP
 
-I’m currently learning : 
+        I’m currently learning : 
 
 - FLUTTER
 

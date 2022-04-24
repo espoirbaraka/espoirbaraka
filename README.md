@@ -1,4 +1,4 @@
-### Baraka Bigega Espoir 👋
+### Baraka Bigega Espoir  :congo_kinshasa:
 
 
 About me: 
@@ -7,7 +7,7 @@ About me:
 
 ### Social media
 
-|Logo    | Social media               |  Link                                                                                        |
+|:earth_africa:  | Social media               |  Link                                                                                        |
 ---------|--------------------------:|:---------------------------------------------------------------------------------------------:|
 |        | Facebook                   |https://www.facebook.com/espoir.barakajoseph/   |
 |        | Instagram             |https://www.instagram.com/espoir_baraka7/  |

@@ -8,10 +8,8 @@ About me:
 
 |Logo    | Social media               |  Link                                                                                        |
 ---------|--------------------------:|:---------------------------------------------------------------------------------------------:|
-|:point_right:| Angular                   |http://bit.ly/2KQN9xF                                                                     |
-|        | Asp.Net Core              |http://bit.ly/30fPDMg                                                                          |
-|        | React                     |http://bit.ly/325temF                                                                          |
-|        | Python                    |http://bit.ly/2ws4utg                                                                          |
-|        | Node.js                   |https://goo.gl/viJcFs                                                                          |
-|        | Asp.Net MVC               |https://goo.gl/gvjUJ7                                                                          |
+|:facebook:| Facebook                   |https://www.facebook.com/espoir.barakajoseph/   |
+|:instagram:        | Instagramm              |https://www.instagram.com/espoir_baraka7/  |
+|   :linkedin:     | Linkedin                     |https://www.linkedin.com/in/Espoir%20Baraka?fbclid=IwAR2OTnS9z6F5Csw6Wjk6IvJawWfmkEXrJByPeRVYvJaDfuYSdR87tPJDZqk  |
+|        | Spotify                    |https://open.spotify.com/user/cydm3v8jrdj6h9m7t10324otk?fbclid=IwAR2Z5ACC8xUs4Y4rnRgMvn-oSnacXyR2HKkDi_BZOYgCgG_s8xLil1sNO28  |                                                                      
 

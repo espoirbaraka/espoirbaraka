@@ -7,13 +7,16 @@ I’m currently working on :
 - REACT JS
 - BOOTSTRAP
 
+
     Backend :
+    
 - DJANGO
 - PHP
 - LARAVEL
 - JSP
 
 I’m currently learning : 
+
 - FLUTTER
 
 ### Social media

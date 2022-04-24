@@ -8,8 +8,8 @@ About me:
 
 |Logo    | Social media               |  Link                                                                                        |
 ---------|--------------------------:|:---------------------------------------------------------------------------------------------:|
-|:facebook:| Facebook                   |https://www.facebook.com/espoir.barakajoseph/   |
-|:instagram:        | Instagramm              |https://www.instagram.com/espoir_baraka7/  |
-|   :linkedin:     | Linkedin                     |https://www.linkedin.com/in/Espoir%20Baraka?fbclid=IwAR2OTnS9z6F5Csw6Wjk6IvJawWfmkEXrJByPeRVYvJaDfuYSdR87tPJDZqk  |
+|| Facebook                   |https://www.facebook.com/espoir.barakajoseph/   |
+| | Instagramm              |https://www.instagram.com/espoir_baraka7/  |
+|   | Linkedin                     |https://www.linkedin.com/in/espoir-baraka-38394018a/  |
 |        | Spotify                    |https://open.spotify.com/user/cydm3v8jrdj6h9m7t10324otk?fbclid=IwAR2Z5ACC8xUs4Y4rnRgMvn-oSnacXyR2HKkDi_BZOYgCgG_s8xLil1sNO28  |                                                                      
 

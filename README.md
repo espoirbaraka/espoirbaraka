@@ -4,11 +4,17 @@
 I’m currently working on : 
 
     Frontend :
+- REACT JS
+- BOOTSTRAP
+
+    Backend :
+- DJANGO
 - PHP
 - LARAVEL
-- DJANGO
-- REACT JS
 - JSP
+
+I’m currently learning : 
+- FLUTTER
 
 ### Social media
 

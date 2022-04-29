@@ -124,22 +124,14 @@
 
 <br/>
 
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Espoir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=espoirbaraka&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=espoirbaraka&show_icons=true&locale=en&layout=compact&theme=algolia" alt="espoirbaraka" height="192px"/>
   <br/>
 
-### Baraka Bigega Espoir  :congo_kinshasa:
-
-
-I’m currently working on : 
-- REACT JS
-- BOOTSTRAP 
-- DJANGO
-- PHP
-- LARAVEL
-- JSP
-
-I’m currently learning : 
-- FLUTTER
 
 ### Social media
 

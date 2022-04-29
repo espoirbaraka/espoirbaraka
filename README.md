@@ -17,10 +17,6 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/PHP-PHP-blue&logo">
-  </a> 
-  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
@@ -56,6 +52,10 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/REACTJS-REACT-blue"/>
+  </a>
+  
 </p>
 
 ### 👉 Databases & Cloud Hosting

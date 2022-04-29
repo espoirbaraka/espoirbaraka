@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=espoirbaraka&label=Profile%20views&color=0e75b6&style=plastic" alt="espoirbaraka" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=espoirbaraka&theme=algolia" alt="espoirbaraka"  /></p>
 
 
 ## 🛠️ My Skills
@@ -18,7 +18,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/PHP-PHP-blue">
+    <img alt="C" src="https://img.shields.io/badge/PHP-PHP-blue&logo">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 

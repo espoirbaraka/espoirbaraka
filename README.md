@@ -46,10 +46,11 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/REACTJS-REACT-blue"/>
   </a>
-  
+  &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting

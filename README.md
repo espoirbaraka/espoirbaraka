@@ -9,7 +9,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=espoirbaraka&show_icons=true&locale=en&layout=compact&theme=algolia" alt="espoirbaraka" height="192px"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espoirbaraka&langs_count=8)](https://github.com/espoirbaraka/github-readme-stats)
   <br/>
 
 
